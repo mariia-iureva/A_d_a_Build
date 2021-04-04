@@ -1,0 +1,29 @@
+Welcome to our very special Mad movie rental. Please input some information below.
+Your name: 
+adjective: 
+time of day: 
+color: 
+animal: 
+relative:
+number: 
+adjective: 
+country:
+Input a movie:
+
+
+Dear {name}, we’re very happy to have you here. In Mad Movie Rental we use your subconsciousness and imagination to help you choose a movie that will be a {adjective perfect} fit for your {time of day Evening}
+If you like bright colors, we can recommend 
+Men in {color Black} (1997), - adventures of secret agents from top secret government bureau that interacts with alien civilizations
+{color Red} Riding Hood (2011), - a little girl’s walk through the dark scary forest and a horrible {color gray} {animal wolf} chasing her on her way to her {relative grandma}’s
+{numberFifty} shades of {color grey}(2015) – a very romantic one where a girl meets a boy and they play with each other in the {color red} room
+If you are more into animals, try our selection 
+{animal Bat}man(2022), dark avenger and his butler fight evil in Gotham city
+The {animal wolf} of Wall Street (2013), - actually no animals involved, just money and lots of trading
+Kungfu – {animal panda} (2008) – it’s about {animal panda} learning Kunfu with his friends
+If you prefer mistic numbers try these 
+{number Three} billboards outside Ebbing, Missouri (2017) - A {relative mother} personally challenges the local authorities to solve her daughter's murder
+{Number Twelve} angry men (1957) – {number 12} jurors decide the fate of an accused young man
+The {Number Three} Musketeers (2011) -  The {adjective hot}-headed young D'Artagnan along with {Number Three} Musketeers must unite to save the throne of {country France} and prevent the war in Europe.
+
+
+
